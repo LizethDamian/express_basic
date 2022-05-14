@@ -1,0 +1,23 @@
+{
+    "name": "express_basic",
+    "version": "1.0.0",
+    "description": "express basic",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./node_modules/jest/bin/jest.js",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/LizethDamian/express_basic.git"
+    },
+    "author": "LizethDamian",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/LizethDamian/express_basic/issues"
+    },
+    "homepage": "https://github.com/LizethDamian/express_basic#readme",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+}
